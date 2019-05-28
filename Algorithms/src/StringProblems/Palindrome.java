@@ -16,15 +16,11 @@ public class Palindrome {
 	}
 
 	public static void main(String[] args) {
-		
 		System.out.println(isPalindrome("a"));
 		System.out.println(isPalindrome("aa"));
 		System.out.println(isPalindrome("aba"));
 		System.out.println(isPalindrome("abaXaba"));
 		System.out.println(isPalindrome("ab"));
-		
-		
-
 	}
 
 }
